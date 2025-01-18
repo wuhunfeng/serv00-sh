@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # 进入用户目录
-cd ~/domains/USERNAME.serv00.com/public_html
+cd ~/domains/chanfeng.serv00.com/public_html
 
 # 克隆 nezha 代码库
 echo "Cloning nezha repository..."
