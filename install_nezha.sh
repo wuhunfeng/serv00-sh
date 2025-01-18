@@ -43,8 +43,8 @@ cp ~/domains/chanfeng.serv00.net/public_html/nezha/script/config.yaml ~/domains/
 # 修改配置文件
 echo "Modifying config.yaml..."
 sed -i '' 's/language: .*/language: zh-CN/' ~/domains/chanfeng.serv00.net/public_html/nezhapanel/data/config.yaml
-sed -i '' 's/httpport: .*/httpport: 13140/' ~/domains/chanfeng.serv00.net/public_html/nezhapanel/data/config.yaml
-sed -i '' 's/grpcport: .*/grpcport: 13141/' ~/domains/chanfeng.serv00.net/public_html/nezhapanel/data/config.yaml
+sed -i '' 's/httpport: .*/httpport: 12140/' ~/domains/chanfeng.serv00.net/public_html/nezhapanel/data/config.yaml
+sed -i '' 's/grpcport: .*/grpcport: 12142/' ~/domains/chanfeng.serv00.net/public_html/nezhapanel/data/config.yaml
 
 # 进入 nezhapanel 目录并设置权限
 echo "Entering nezhapanel directory and setting permissions..."
